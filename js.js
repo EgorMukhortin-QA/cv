@@ -1,7 +1,7 @@
-/* объявление переменной, мы нашли кнопку по тегу */
+
 const buttons = document.querySelectorAll('button');
 
-//обработчики событий
+
 buttons.forEach(button => {
  button.addEventListener('click', function() {
  switch(this.value) {
