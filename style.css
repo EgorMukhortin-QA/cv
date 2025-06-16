@@ -13,15 +13,15 @@ body
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('fon.png'); /* Путь изображению */
-  background-repeat: no-repeat; /* Однократное отображение */
-  background-position: center center; /* Центровка изображения */
-  background-size: cover; /* Масштабирование для покрытия всего фона */
+  background-image: url('fon.png'); 
+  background-repeat: no-repeat; 
+  background-position: center center; 
+  background-size: cover; 
   font-family: Arial, sans-serif;
 }
 
 .content {
-  background: #fff; /* Цвет фона контента */
+  background: #fff; 
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
