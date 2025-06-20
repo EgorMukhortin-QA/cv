@@ -51,7 +51,7 @@ h3 {
 
   font-size: 24px;
   font-weight: 300;
-  color: gray;
+  color: grey;
 }
 
 .hero {
@@ -85,7 +85,7 @@ h3 {
 .hero__title {
   font-size: 48px;
   line-height: 1.1;
-
+color: rgb(84, 226, 84);
   margin-bottom: 20px;
 }
 
